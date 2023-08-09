@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Country-Metrics/static/css/main.f6fd6625.css",
-    "main.js": "/Country-Metrics/static/js/main.597c94ce.js",
+    "main.js": "/Country-Metrics/static/js/main.63cdc1b1.js",
     "index.html": "/Country-Metrics/index.html",
     "main.f6fd6625.css.map": "/Country-Metrics/static/css/main.f6fd6625.css.map",
-    "main.597c94ce.js.map": "/Country-Metrics/static/js/main.597c94ce.js.map"
+    "main.63cdc1b1.js.map": "/Country-Metrics/static/js/main.63cdc1b1.js.map"
   },
   "entrypoints": [
     "static/css/main.f6fd6625.css",
-    "static/js/main.597c94ce.js"
+    "static/js/main.63cdc1b1.js"
   ]
 }
