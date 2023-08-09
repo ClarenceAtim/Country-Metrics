@@ -129,7 +129,7 @@ npm start
 
 ## 👤 Author <a name="author"></a>
 
-👤 Kiko
+👤 ClarenceAtim
 
 - GitHub: [@ClarenceAtim](https://github.com/ClarenceAtim)
 
