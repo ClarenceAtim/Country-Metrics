@@ -66,7 +66,7 @@
 ## 🚀 Demo <a name="live-demo"></a>
 
 - [🔗 Live Demo Link](https://clarenceatim.github.io/Country-Metrics/)
-- [🔗 Presentation link](https://www.loom.com/share/f16a7b3d91ca4ea09a414822133287a2)
+- [🔗 Presentation link](https://drive.google.com/file/d/14WJ0AzSOcRJPeWmvsYv81ZaaBXdS0Yje/view?usp=sharing)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -6,7 +6,7 @@ import Navbar from './components/Navbar';
 
 function App() {
   return (
-    <Router basename="/Country-Metrics">
+    <Router>
       <div className="App">
         <Navbar />
         <div>
