@@ -1,14 +1,12 @@
 import React from 'react';
-import {
-  BrowserRouter as Router, Routes, Route,
-} from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import HomePage from './components/HomePage';
 import DetailsPage from './components/DetailsPage';
 import Navbar from './components/Navbar';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/Country-Metrics">
       <div className="App">
         <Navbar />
         <div>
